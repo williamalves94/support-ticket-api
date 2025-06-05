@@ -22,7 +22,7 @@ Ideal para fins de estudo ou projetos pequenos, utiliza um banco de dados local 
 ▶️ Como executar o Projeto : npm run dev <br>
 A API será iniciada em http://localhost:3000
 
-<img src="src/assets/ticket-api-capa.jpg" alt="Capa do Projeto" width="600">
+<img src="/assets/ticket-api-capa.jpg" alt="Capa do Projeto" width="600">
 
 
 
