@@ -1,4 +1,4 @@
-🎟️ Gerenciamento de Tickets
+💻 Gerenciamento de Tickets
 
 Uma API RESTful simples para gerenciamento de tickets, desenvolvida com Node.js e JavaScript puro. 
 Ideal para fins de estudo ou projetos pequenos, utiliza um banco de dados local baseado em arquivos JSON ou estrutura em memória.
