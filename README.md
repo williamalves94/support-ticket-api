@@ -19,4 +19,6 @@ Ideal para fins de estudo ou projetos pequenos, utiliza um banco de dados local 
 - Padrão MVC (Model - View - Controller)
 - Banco de dados local (JSON ou array em memória)
 
-<img src="/assets/ticket-api-capa.jpg" alt="capa" width="900">
+Execução do Projeto : npm run dev
+
+<img src="/assets/ticket-api-capa.jpg" alt="capa" width="600">
