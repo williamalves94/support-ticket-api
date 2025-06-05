@@ -5,11 +5,11 @@ Ideal para fins de estudo ou projetos pequenos, utiliza um banco de dados local 
 
 🚀 Funcionalidades
 
-📌 Criar um novo ticket
-📋 Listar todos os tickets
-🔍 Buscar um ticket por ID
-✏️ Atualizar um ticket
-🗑️ Deletar um ticket
+📌 Criar um novo ticket <br>
+📋 Listar todos os tickets <br>
+🔍 Buscar um ticket por ID <br>
+✏️ Atualizar um ticket <br>
+🗑️ Deletar um ticket <br>
 
 🛠️ Tecnologias e Conceitos Usados
 
@@ -22,4 +22,4 @@ Ideal para fins de estudo ou projetos pequenos, utiliza um banco de dados local 
 ▶️ Como executar o Projeto : npm run dev <br>
 A API será iniciada em http://localhost:3000
 
-<img src="src/assets/ticket-api-capa.jpg" alt="capa" width="600">
+<img src="/src/assets/ticket-api-capa.jpg" alt="capa" width="600">
